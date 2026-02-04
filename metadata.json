@@ -1,0 +1,7 @@
+{
+  "name": "Registro de Lluvias",
+  "description": "Aplicación para el registro y análisis de precipitaciones con inteligencia artificial.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
